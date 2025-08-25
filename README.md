@@ -1,4 +1,5 @@
-<h1>CargoTrade is a Transport Management Website where you can easily plan your transportation to a specific destination by specifying various parameters such as Driver's Name, Type of Vehicle, Strength of the Vehicle and Date of Transportation. The aim of this project is to make your transportation journey easy and interactable</h1>
+<h1>CargoTrade</h1>
+<p>CargoTrade is a Transport Management Website where you can easily plan your transportation to a specific destination by specifying various parameters such as Driver's Name, Type of Vehicle, Strength of the Vehicle and Date of Transportation. The aim of this project is to make your transportation journey easy and interactable</p>
 
 
 <h2>Dashboard:-</h2>
