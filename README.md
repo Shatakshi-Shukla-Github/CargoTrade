@@ -3,3 +3,15 @@ CargoTrade is a Transport Management Website where you can easily plan your tran
 
 Dashboard:-
 <img src="Screenshot (19).png">
+
+
+Vehicle's Info:-
+<img src="Screenshot (20).png">
+
+
+Driver's Info:-
+<img src="Screenshot (21).png">
+
+
+Trip Info:-
+<img src="Screenshot (22).png">
